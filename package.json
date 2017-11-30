@@ -1,0 +1,26 @@
+{
+  "name": "and-the-winner-is",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "dependencies": {
+    "tempfile": "^2.0.0"
+  },
+  "devDependencies": {
+    "serverless-apigw-binary": "^0.4.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eddmann/and-the-winner-is-serverless.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eddmann/and-the-winner-is-serverless/issues"
+  },
+  "homepage": "https://github.com/eddmann/and-the-winner-is-serverless#readme"
+}
